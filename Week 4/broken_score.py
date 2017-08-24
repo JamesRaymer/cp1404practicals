@@ -1,7 +1,7 @@
 def main():
     score = float(input("Enter score: "))
-    x = calculate_score(score)
-    print(x)
+    mark = calculate_score(score)
+    print(mark)
 
 
 def calculate_score(score):
